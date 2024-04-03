@@ -1,0 +1,4 @@
+baseURL = 'https://NovaCraft.org/'
+languageCode = 'en-us'
+title = 'NovaCraft'
+theme = 'ananke'
